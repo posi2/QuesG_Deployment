@@ -1,0 +1,10 @@
+rake-nltk
+wikipedia-api
+textblob
+nltk
+gensim
+numpy
+scipy
+networkx
+rake-nltk
+tqdm
