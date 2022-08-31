@@ -2,7 +2,7 @@ rake-nltk
 wikipedia-api
 textblob
 nltk
-gensim
+gensim==3.8.3
 numpy
 scipy
 networkx
