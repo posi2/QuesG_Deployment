@@ -164,7 +164,7 @@ class Pipeline():
             #similar_options = self.similar_words(main_keywords[0])
             similar_options.insert(3, main_keywords[0])
             shuffle(similar_options)
-            print(similar_options)
+            #print(similar_options)
             #print(shuffle(options))
             itr+=1
             result+="\n"
